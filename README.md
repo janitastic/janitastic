@@ -1,7 +1,7 @@
 #### Hi! I'm Jani! Here's a little bit about me -
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=janitastic&bg_color=30,d83c48,5622c7&title_color=fff&text_color=fff">
 <ul>
-  <li> Jani is pronounced <i>'Haw-nee'</i>.</li>
+  <li> Jani is pronounced <i>'Hah-nee'</i>.</li>
   <li> I'm currently attending <a href="https://turing.edu/" target="_blank">Turing School of Software & Design</a> for Frontend Development.</li>
   <li> I'm passionate about designing modern, intuitive, and accessible applications. </li>
   <li> When I'm not at my computer, I'm with my dog Bob or playing with other dogs I dogsit.</li>
